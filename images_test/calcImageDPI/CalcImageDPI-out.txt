@@ -1,0 +1,100 @@
+CalcImageDPI: Results for file ../../../../Resources/Sample_Input/CalcImageDPI-in.pdf
+We found 14 images
+Image (Page 1, seq 1) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [396.00, 0.00, 0.00, 262.32, 180.95, 173.77]
+        Image rotated 0.00 Horiz and 0.00 vertical.
+        Erect H Matrix is [396.00, 0.00, 0.00, 262.32, 180.95, 173.77] Erect V Matrix is [396.00, 0.00, 0.00, 262.32, 180.95, 173.77]
+        Image was 396.00 Points wide and 262.32 Points deep.
+        Image was 2645 Pixels wide and 1752 pixels deep.
+     for a DPI of 481.00 horiz and 481.00 vertical.
+
+Image (Page 1, seq 2) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [395.04, 0.00, 0.00, 153.84, 181.43, 618.73]
+        Image rotated 0.00 Horiz and 0.00 vertical.
+        Erect H Matrix is [395.04, 0.00, 0.00, 153.84, 181.43, 618.73] Erect V Matrix is [395.04, 0.00, 0.00, 153.84, 181.43, 618.73]
+        Image was 395.04 Points wide and 153.84 Points deep.
+        Image was 1646 Pixels wide and 641 pixels deep.
+     for a DPI of 300.00 horiz and 300.00 vertical.
+
+Image (Page 1, seq 3) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [179.52, 0.00, 0.00, 154.32, 1.19, 618.49]
+        Image rotated 0.00 Horiz and 0.00 vertical.
+        Erect H Matrix is [179.52, 0.00, 0.00, 154.32, 1.19, 618.49] Erect V Matrix is [179.52, 0.00, 0.00, 154.32, 1.19, 618.49]
+        Image was 179.52 Points wide and 154.32 Points deep.
+        Image was 748 Pixels wide and 643 pixels deep.
+     for a DPI of 300.00 horiz and 300.00 vertical.
+
+Image (Page 1, seq 4) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [179.52, 0.00, 0.00, 75.84, 1.19, 498.97]
+        Image rotated 0.00 Horiz and 0.00 vertical.
+        Erect H Matrix is [179.52, 0.00, 0.00, 75.84, 1.19, 498.97] Erect V Matrix is [179.52, 0.00, 0.00, 75.84, 1.19, 498.97]
+        Image was 179.52 Points wide and 75.84 Points deep.
+        Image was 748 Pixels wide and 316 pixels deep.
+     for a DPI of 300.00 horiz and 300.00 vertical.
+
+Image (Page 1, seq 5) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [179.52, 0.00, 0.00, 75.84, 1.19, 53.53]
+        Image rotated 0.00 Horiz and 0.00 vertical.
+        Erect H Matrix is [179.52, 0.00, 0.00, 75.84, 1.19, 53.53] Erect V Matrix is [179.52, 0.00, 0.00, 75.84, 1.19, 53.53]
+        Image was 179.52 Points wide and 75.84 Points deep.
+        Image was 748 Pixels wide and 316 pixels deep.
+     for a DPI of 300.00 horiz and 300.00 vertical.
+
+Image (Page 2, seq 1) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, 40.53, 800.88]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, 40.53, 800.88] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, 40.53, 800.88]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 1 Pixels wide and 1 pixels deep.
+     for a DPI of 0.00 horiz and 0.00 vertical.
+
+Image (Page 2, seq 2) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, -126.53, 598.66]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, -126.53, 598.66] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, -126.53, 598.66]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 1 Pixels wide and 1752 pixels deep.
+     for a DPI of 0.00 horiz and 481.00 vertical.
+
+Image (Page 2, seq 3) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, -293.58, 396.44]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, -293.58, 396.44] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, -293.58, 396.44]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 1 Pixels wide and 1 pixels deep.
+     for a DPI of 0.00 horiz and 0.00 vertical.
+
+Image (Page 2, seq 4) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, 345.83, 548.67]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, 345.83, 548.67] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, 345.83, 548.67]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 2645 Pixels wide and 1 pixels deep.
+     for a DPI of 481.00 horiz and 0.00 vertical.
+
+Image (Page 2, seq 5) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, 178.77, 346.45]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, 178.77, 346.45] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, 178.77, 346.45]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 2645 Pixels wide and 1752 pixels deep.
+     for a DPI of 481.00 horiz and 481.00 vertical.
+
+Image (Page 2, seq 6) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, 11.72, 144.23]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, 11.72, 144.23] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, 11.72, 144.23]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 2645 Pixels wide and 1 pixels deep.
+     for a DPI of 481.00 horiz and 0.00 vertical.
+
+Image (Page 2, seq 7) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, 651.13, 296.46]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, 651.13, 296.46] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, 651.13, 296.46]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 1 Pixels wide and 1 pixels deep.
+     for a DPI of 0.00 horiz and 0.00 vertical.
+
+Image (Page 2, seq 8) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, 484.07, 94.24]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, 484.07, 94.24] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, 484.07, 94.24]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 1 Pixels wide and 1752 pixels deep.
+     for a DPI of 0.00 horiz and 481.00 vertical.
+
+Image (Page 2, seq 9) In Form at [1.00, 0.00, 0.00, 1.00, 0.00, 0.00] Image At [305.30, -252.21, 167.06, 202.22, 317.02, -107.98]
+        Image rotated 320.44 Horiz and 320.44 vertical.
+        Erect H Matrix is [305.30, -252.21, 167.06, 202.22, 317.02, -107.98] Erect V Matrix is [305.30, -252.21, 167.06, 202.22, 317.02, -107.98]
+        Image was 396.00 Points wide and 262.30 Points deep.
+        Image was 1 Pixels wide and 1 pixels deep.
+     for a DPI of 0.00 horiz and 0.00 vertical.
+

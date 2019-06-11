@@ -1,0 +1,583 @@
+Results from file CreateAnnotations-out.pdf:
+The input page has 120 annotations.
+Annotation no. 1: This is a container containing 1 elements. It is situated at: 
+	top: 802.703
+	bottom: 34.2969
+	left: 36.78
+	right: 524.44
+Annotation no. 2: This is a text object. It is situated at: 
+	top: 802.703
+	bottom: 34.2969
+	left: 36.78
+	right: 524.44
+Annotation no. 3: This is a container containing 1 elements. It is situated at: 
+	top: 760.28
+	bottom: 712.512
+	left: 36.78
+	right: 528.639
+Annotation no. 4: This is a text object. It is situated at: 
+	top: 760.28
+	bottom: 712.512
+	left: 36.78
+	right: 528.639
+Annotation no. 5: This is a container containing 1 elements. It is situated at: 
+	top: 725.769
+	bottom: 712.512
+	left: 197.096
+	right: 277.891
+Annotation no. 6: This is a text object. It is situated at: 
+	top: 725.769
+	bottom: 712.512
+	left: 197.096
+	right: 277.891
+Annotation no. 7: This is a container containing 1 elements. It is situated at: 
+	top: 725.769
+	bottom: 712.512
+	left: 277.792
+	right: 286.7
+Annotation no. 8: This is a text object. It is situated at: 
+	top: 725.769
+	bottom: 712.512
+	left: 277.792
+	right: 286.7
+Annotation no. 9: This is a container containing 1 elements. It is situated at: 
+	top: 702.26
+	bottom: 619.98
+	left: 36.77
+	right: 529.558
+Annotation no. 10: This is a text object. It is situated at: 
+	top: 702.26
+	bottom: 619.98
+	left: 36.77
+	right: 529.558
+Annotation no. 11: This is a container containing 1 elements. It is situated at: 
+	top: 609.494
+	bottom: 597.515
+	left: 36.78
+	right: 61.7062
+Annotation no. 12: This is a text object. It is situated at: 
+	top: 609.494
+	bottom: 597.515
+	left: 36.78
+	right: 61.7062
+Annotation no. 13: This is a container containing 1 elements. It is situated at: 
+	top: 609.494
+	bottom: 597.515
+	left: 87.837
+	right: 126.945
+Annotation no. 14: This is a text object. It is situated at: 
+	top: 609.494
+	bottom: 597.515
+	left: 87.837
+	right: 126.945
+Annotation no. 15: This is a container containing 1 elements. It is situated at: 
+	top: 609.494
+	bottom: 597.515
+	left: 126.96
+	right: 528.038
+Annotation no. 16: This is a text object. It is situated at: 
+	top: 609.494
+	bottom: 597.515
+	left: 126.96
+	right: 528.038
+Annotation no. 17: This is a container containing 1 elements. It is situated at: 
+	top: 598.994
+	bottom: 576.512
+	left: 87.84
+	right: 526.67
+Annotation no. 18: This is a text object. It is situated at: 
+	top: 598.994
+	bottom: 576.512
+	left: 87.84
+	right: 526.67
+Annotation no. 19: This is a container containing 1 elements. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 142.98
+	right: 173.519
+Annotation no. 20: This is a text object. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 142.98
+	right: 173.519
+Annotation no. 21: This is a container containing 1 elements. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 173.519
+	right: 176.288
+Annotation no. 22: This is a text object. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 173.519
+	right: 176.288
+Annotation no. 23: This is a container containing 1 elements. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 176.336
+	right: 187.493
+Annotation no. 24: This is a text object. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 176.336
+	right: 187.493
+Annotation no. 25: This is a container containing 1 elements. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 187.431
+	right: 190.2
+Annotation no. 26: This is a text object. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 187.431
+	right: 190.2
+Annotation no. 27: This is a container containing 1 elements. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 190.19
+	right: 418.127
+Annotation no. 28: This is a text object. It is situated at: 
+	top: 353.64
+	bottom: 339.835
+	left: 190.19
+	right: 418.127
+Annotation no. 29: This is a container containing 1 elements. It is situated at: 
+	top: 327.117
+	bottom: 313.312
+	left: 36.7666
+	right: 144
+Annotation no. 30: This is a text object. It is situated at: 
+	top: 327.117
+	bottom: 313.312
+	left: 36.7666
+	right: 144
+Annotation no. 31: This is a container containing 1 elements. It is situated at: 
+	top: 303.621
+	bottom: 266.808
+	left: 36.7666
+	right: 528.541
+Annotation no. 32: This is a text object. It is situated at: 
+	top: 303.621
+	bottom: 266.808
+	left: 36.7666
+	right: 528.541
+Annotation no. 33: This is a container containing 1 elements. It is situated at: 
+	top: 280.573
+	bottom: 267.316
+	left: 315.6
+	right: 338.449
+Annotation no. 34: This is a text object. It is situated at: 
+	top: 280.573
+	bottom: 267.316
+	left: 315.6
+	right: 338.449
+Annotation no. 35: This is a container containing 1 elements. It is situated at: 
+	top: 280.573
+	bottom: 267.316
+	left: 339.484
+	right: 342.253
+Annotation no. 36: This is a text object. It is situated at: 
+	top: 280.573
+	bottom: 267.316
+	left: 339.484
+	right: 342.253
+Annotation no. 37: This is a container containing 1 elements. It is situated at: 
+	top: 280.573
+	bottom: 267.316
+	left: 342.243
+	right: 358.859
+Annotation no. 38: This is a text object. It is situated at: 
+	top: 280.573
+	bottom: 267.316
+	left: 342.243
+	right: 358.859
+Annotation no. 39: This is a container containing 1 elements. It is situated at: 
+	top: 280.573
+	bottom: 267.316
+	left: 358.926
+	right: 527.401
+Annotation no. 40: This is a text object. It is situated at: 
+	top: 280.573
+	bottom: 267.316
+	left: 358.926
+	right: 527.401
+Annotation no. 41: This is a container containing 1 elements. It is situated at: 
+	top: 269.12
+	bottom: 232.816
+	left: 36.79
+	right: 527.589
+Annotation no. 42: This is a text object. It is situated at: 
+	top: 269.12
+	bottom: 232.816
+	left: 36.79
+	right: 527.589
+Annotation no. 43: This is a container containing 1 elements. It is situated at: 
+	top: 246.073
+	bottom: 232.816
+	left: 283.27
+	right: 305.999
+Annotation no. 44: This is a text object. It is situated at: 
+	top: 246.073
+	bottom: 232.816
+	left: 283.27
+	right: 305.999
+Annotation no. 45: This is a container containing 1 elements. It is situated at: 
+	top: 246.073
+	bottom: 232.816
+	left: 307.154
+	right: 309.923
+Annotation no. 46: This is a text object. It is situated at: 
+	top: 246.073
+	bottom: 232.816
+	left: 307.154
+	right: 309.923
+Annotation no. 47: This is a container containing 1 elements. It is situated at: 
+	top: 246.073
+	bottom: 232.816
+	left: 309.973
+	right: 326.649
+Annotation no. 48: This is a text object. It is situated at: 
+	top: 246.073
+	bottom: 232.816
+	left: 309.973
+	right: 326.649
+Annotation no. 49: This is a container containing 1 elements. It is situated at: 
+	top: 246.08
+	bottom: 232.816
+	left: 326.596
+	right: 527.39
+Annotation no. 50: This is a text object. It is situated at: 
+	top: 246.08
+	bottom: 232.816
+	left: 326.596
+	right: 527.39
+Annotation no. 51: This is a container containing 1 elements. It is situated at: 
+	top: 234.66
+	bottom: 209.84
+	left: 36.78
+	right: 527.981
+Annotation no. 52: This is a text object. It is situated at: 
+	top: 234.66
+	bottom: 209.84
+	left: 36.78
+	right: 527.981
+Annotation no. 53: This is a container containing 1 elements. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 169.019
+	right: 193.615
+Annotation no. 54: This is a text object. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 169.019
+	right: 193.615
+Annotation no. 55: This is a container containing 1 elements. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 194.397
+	right: 197.166
+Annotation no. 56: This is a text object. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 194.397
+	right: 197.166
+Annotation no. 57: This is a container containing 1 elements. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 197.156
+	right: 213.772
+Annotation no. 58: This is a text object. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 197.156
+	right: 213.772
+Annotation no. 59: This is a container containing 1 elements. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 213.839
+	right: 216.608
+Annotation no. 60: This is a text object. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 213.839
+	right: 216.608
+Annotation no. 61: This is a container containing 1 elements. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 216.598
+	right: 394.958
+Annotation no. 62: This is a text object. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 216.598
+	right: 394.958
+Annotation no. 63: This is a container containing 1 elements. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 394.922
+	right: 397.691
+Annotation no. 64: This is a text object. It is situated at: 
+	top: 177.659
+	bottom: 163.854
+	left: 394.922
+	right: 397.691
+Annotation no. 65: This is a container containing 1 elements. It is situated at: 
+	top: 155.33
+	bottom: 142.856
+	left: 75.06
+	right: 91.4984
+Annotation no. 66: This is a text object. It is situated at: 
+	top: 155.33
+	bottom: 142.856
+	left: 75.06
+	right: 91.4984
+Annotation no. 67: This is a container containing 1 elements. It is situated at: 
+	top: 155.33
+	bottom: 142.856
+	left: 117.063
+	right: 136.665
+Annotation no. 68: This is a text object. It is situated at: 
+	top: 155.33
+	bottom: 142.856
+	left: 117.063
+	right: 136.665
+Annotation no. 69: This is a container containing 1 elements. It is situated at: 
+	top: 155.33
+	bottom: 142.856
+	left: 177.066
+	right: 200.066
+Annotation no. 70: This is a text object. It is situated at: 
+	top: 155.33
+	bottom: 142.856
+	left: 177.066
+	right: 200.066
+Annotation no. 71: This is a container containing 1 elements. It is situated at: 
+	top: 136.313
+	bottom: 123.839
+	left: 75.069
+	right: 94.671
+Annotation no. 72: This is a text object. It is situated at: 
+	top: 136.313
+	bottom: 123.839
+	left: 75.069
+	right: 94.671
+Annotation no. 73: This is a container containing 1 elements. It is situated at: 
+	top: 136.277
+	bottom: 124.298
+	left: 117.072
+	right: 139.488
+Annotation no. 74: This is a text object. It is situated at: 
+	top: 136.277
+	bottom: 124.298
+	left: 117.072
+	right: 139.488
+Annotation no. 75: This is a container containing 1 elements. It is situated at: 
+	top: 136.277
+	bottom: 113.333
+	left: 177.06
+	right: 489.946
+Annotation no. 76: This is a text object. It is situated at: 
+	top: 136.277
+	bottom: 113.333
+	left: 177.06
+	right: 489.946
+Annotation no. 77: This is a container containing 1 elements. It is situated at: 
+	top: 106.844
+	bottom: 94.3703
+	left: 75.054
+	right: 83.55
+Annotation no. 78: This is a text object. It is situated at: 
+	top: 106.844
+	bottom: 94.3703
+	left: 75.054
+	right: 83.55
+Annotation no. 79: This is a container containing 1 elements. It is situated at: 
+	top: 106.808
+	bottom: 94.8293
+	left: 117.057
+	right: 147.495
+Annotation no. 80: This is a text object. It is situated at: 
+	top: 106.808
+	bottom: 94.8293
+	left: 117.057
+	right: 147.495
+Annotation no. 81: This is a container containing 1 elements. It is situated at: 
+	top: 106.814
+	bottom: 84.3323
+	left: 177.06
+	right: 488.816
+Annotation no. 82: This is a text object. It is situated at: 
+	top: 106.814
+	bottom: 84.3323
+	left: 177.06
+	right: 488.816
+Annotation no. 83: This is a container containing 8 elements. It is situated at: 
+	top: 159.51
+	bottom: 79.75
+	left: 68.57
+	right: 492.61
+Annotation no. 84: This is a path. It is situated at: 
+	top: 157.47
+	bottom: 80.23
+	left: 68.57
+	right: 69.55
+Annotation no. 85: This is a path. It is situated at: 
+	top: 159.51
+	bottom: 79.75
+	left: 110.57
+	right: 111.55
+Annotation no. 86: This is a path. It is situated at: 
+	top: 159.51
+	bottom: 79.75
+	left: 170.57
+	right: 171.55
+Annotation no. 87: This is a path. It is situated at: 
+	top: 157.47
+	bottom: 80.23
+	left: 491.63
+	right: 492.61
+Annotation no. 88: This is a path. It is situated at: 
+	top: 159.45
+	bottom: 156.97
+	left: 68.57
+	right: 492.61
+Annotation no. 89: This is a path. It is situated at: 
+	top: 140.43
+	bottom: 137.95
+	left: 68.57
+	right: 492.61
+Annotation no. 90: This is a path. It is situated at: 
+	top: 110.25
+	bottom: 109.27
+	left: 68.57
+	right: 492.61
+Annotation no. 91: This is a path. It is situated at: 
+	top: 80.73
+	bottom: 79.75
+	left: 68.57
+	right: 492.61
+Annotation no. 92: This is a container containing 2 elements. It is situated at: 
+	top: 557.23
+	bottom: 362.63
+	left: 68.81
+	right: 492.37
+Annotation no. 93: This is a path. It is situated at: 
+	top: 557.23
+	bottom: 362.63
+	left: 68.81
+	right: 492.37
+Annotation no. 94: This is a container containing 22 elements. It is situated at: 
+	top: 555.287
+	bottom: 364.606
+	left: 69.91
+	right: 490.926
+Annotation no. 95: This is a path. It is situated at: 
+	top: 555.287
+	bottom: 364.606
+	left: 69.91
+	right: 490.926
+Annotation no. 96: This is a text object. It is situated at: 
+	top: 388.652
+	bottom: 377.654
+	left: 134.564
+	right: 214.987
+Annotation no. 97: This is a path. It is situated at: 
+	top: 540.39
+	bottom: 407.785
+	left: 123.827
+	right: 226.431
+Annotation no. 98: This is a path. It is situated at: 
+	top: 498.44
+	bottom: 461.839
+	left: 148.926
+	right: 179.527
+Annotation no. 99: This is a path. It is situated at: 
+	top: 468.652
+	bottom: 462.052
+	left: 172.716
+	right: 179.316
+Annotation no. 100: This is a path. It is situated at: 
+	top: 468.652
+	bottom: 462.052
+	left: 172.927
+	right: 179.527
+Annotation no. 101: This is a path. It is situated at: 
+	top: 494.097
+	bottom: 492.097
+	left: 152.413
+	right: 175.778
+Annotation no. 102: This is a path. It is situated at: 
+	top: 487.271
+	bottom: 485.271
+	left: 152.413
+	right: 175.778
+Annotation no. 103: This is a path. It is situated at: 
+	top: 480.445
+	bottom: 478.445
+	left: 152.413
+	right: 175.778
+Annotation no. 104: This is a text object. It is situated at: 
+	top: 454.428
+	bottom: 435.812
+	left: 149.087
+	right: 195.125
+Annotation no. 105: This is a path. It is situated at: 
+	top: 499.81
+	bottom: 495.832
+	left: 147.477
+	right: 151.455
+Annotation no. 106: This is a text object. It is situated at: 
+	top: 406.132
+	bottom: 377.654
+	left: 123.314
+	right: 409.604
+Annotation no. 107: This is a path. It is situated at: 
+	top: 510.389
+	bottom: 407.785
+	left: 306.618
+	right: 439.223
+Annotation no. 108: This is a path. It is situated at: 
+	top: 510.389
+	bottom: 509.789
+	left: 438.623
+	right: 439.223
+Annotation no. 109: This is a path. It is situated at: 
+	top: 485.157
+	bottom: 448.557
+	left: 396.604
+	right: 427.205
+Annotation no. 110: This is a path. It is situated at: 
+	top: 455.369
+	bottom: 448.77
+	left: 420.394
+	right: 426.994
+Annotation no. 111: This is a path. It is situated at: 
+	top: 455.369
+	bottom: 448.77
+	left: 420.605
+	right: 427.205
+Annotation no. 112: This is a path. It is situated at: 
+	top: 480.813
+	bottom: 478.813
+	left: 400.089
+	right: 423.454
+Annotation no. 113: This is a path. It is situated at: 
+	top: 473.988
+	bottom: 471.988
+	left: 400.089
+	right: 423.454
+Annotation no. 114: This is a path. It is situated at: 
+	top: 467.162
+	bottom: 465.162
+	left: 400.089
+	right: 423.454
+Annotation no. 115: This is a path. It is situated at: 
+	top: 486.527
+	bottom: 482.549
+	left: 395.155
+	right: 399.133
+Annotation no. 116: This is a text object. It is situated at: 
+	top: 521.756
+	bottom: 439.047
+	left: 305.641
+	right: 353.412
+4 annotations on the page did not have text content.

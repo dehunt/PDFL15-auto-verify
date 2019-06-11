@@ -1,0 +1,85 @@
+Analyzing file ../../../../Resources/Sample_Input/ColorNoColor.pdf
+Page 0: HAD color
+	Had DeviceGray Color:    false
+	Had DeviceRGB Color:     True
+	Had DeviceCMYK Color:    false
+	Had CalGray Color:       false
+	Had CalRGB Color:        false
+	Had Lab Color:           false
+	Had ICC Color:           false
+	Had DeviceN Color:       false
+	Had Separation Color:    false
+	Had Indexed Color:       false
+	Had Pattern Color:       false
+	Had Shading Color:       false
+
+Page 1: HAD color
+	Had DeviceGray Color:    false
+	Had DeviceRGB Color:     True
+	Had DeviceCMYK Color:    false
+	Had CalGray Color:       false
+	Had CalRGB Color:        false
+	Had Lab Color:           false
+	Had ICC Color:           false
+	Had DeviceN Color:       false
+	Had Separation Color:    false
+	Had Indexed Color:       false
+	Had Pattern Color:       false
+	Had Shading Color:       false
+
+Page 2: had NO color
+	Had DeviceGray Color:    True
+	Had DeviceRGB Color:     false
+	Had DeviceCMYK Color:    false
+	Had CalGray Color:       false
+	Had CalRGB Color:        false
+	Had Lab Color:           false
+	Had ICC Color:           false
+	Had DeviceN Color:       false
+	Had Separation Color:    false
+	Had Indexed Color:       false
+	Had Pattern Color:       false
+	Had Shading Color:       false
+
+Page 3: had NO color
+	Had DeviceGray Color:    True
+	Had DeviceRGB Color:     false
+	Had DeviceCMYK Color:    false
+	Had CalGray Color:       false
+	Had CalRGB Color:        false
+	Had Lab Color:           false
+	Had ICC Color:           false
+	Had DeviceN Color:       false
+	Had Separation Color:    false
+	Had Indexed Color:       false
+	Had Pattern Color:       false
+	Had Shading Color:       false
+
+Page 4: HAD color
+	Had DeviceGray Color:    false
+	Had DeviceRGB Color:     True
+	Had DeviceCMYK Color:    false
+	Had CalGray Color:       false
+	Had CalRGB Color:        false
+	Had Lab Color:           false
+	Had ICC Color:           false
+	Had DeviceN Color:       false
+	Had Separation Color:    false
+	Had Indexed Color:       false
+	Had Pattern Color:       false
+	Had Shading Color:       false
+
+Document summary: HAD color
+	Had DeviceGray Color:    True
+	Had DeviceRGB Color:     True
+	Had DeviceCMYK Color:    false
+	Had CalGray Color:       false
+	Had CalRGB Color:        false
+	Had Lab Color:           false
+	Had ICC Color:           false
+	Had DeviceN Color:       false
+	Had Separation Color:    false
+	Had Indexed Color:       false
+	Had Pattern Color:       false
+	Had Shading Color:       false
+

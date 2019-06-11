@@ -1,0 +1,8 @@
+<<<Extracted Document Information>>> from file ../../../../Resources/Sample_Input/extractInfoFrom.pdf
+Title: Sample Title
+Author: Sample Author
+Subject: 
+Keywords: 
+Creator: Acrobat PDFMaker 11 for Word
+Producer: Adobe PDF Library 11.0
+Trapped: 

@@ -1,0 +1,721 @@
+%PDF-1.6%‚„œ”
+1 0 obj<</Metadata 2 0 R/Pages 3 0 R/Type/Catalog>>endobj2 0 obj<</Length 3104/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c015 81.159809, 2016/11/11-01:42:16        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2019-04-11T13:08:05-05:00</xmp:ModifyDate>
+         <xmp:CreateDate>2019-04-11T13:08:05-05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2019-04-11T13:08:05-05:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>uuid:0d05c1ec-fcb7-415c-a191-9fd5e6885eb6</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:2d6958a9-e4c9-4195-84d7-8e011dd875c9</xmpMM:InstanceID>
+         <dc:format>application/pdf</dc:format>
+         <pdf:Producer>Adobe PDF Library 15.0.4</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj3 0 obj<</Count 1/Kids[5 0 R]/Type/Pages>>endobj5 0 obj<</Contents 6 0 R/MediaBox[0.0 0.0 500.0 500.0]/Parent 3 0 R/Resources<</XObject<</Fm0 7 0 R/Fm1 8 0 R>>>>/Type/Page>>endobj6 0 obj<</Length 96>>stream
+q
+0.3156586 0 0 0.408493 0 0 cm
+0 TL/Fm0 Do
+Q
+q
+0.408493 0 0 0.3156586 250 250 cm
+0 TL/Fm1 Do
+Q
+
+endstreamendobj7 0 obj<</BBox[0.0 0.0 792.0 612.0]/Length 3063/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</Font<</TT0 9 0 R/TT1 10 0 R/TT2 11 0 R>>/ProcSet[/PDF/Text]>>/Subtype/Form>>stream
+1 1 1 rg
+90 72 612 468 re
+f
+BT
+0 0 0 rg
+/TT0 9.60001 Tf
+0 Tc 0 Tw 0 Ts 100 Tz 0 Tr T*
+90 531.36 Td
+(Contents 3)Tj
+0 -10.8 Td
+(Figures 9)Tj
+0 -10.8 Td
+(Tables 11)Tj
+0 -10.8 Td
+(Examples 15)Tj
+/TT1 9.12 Tf
+0.00349 Tc 0.00079 Tw 0 -10.8 Td
+(Chapter 1: Introduction )Tj
+/TT0 9.60001 Tf
+0 Tc 0 Tw (17)Tj
+0 -10.8 Td
+(1.1 About this book 17)Tj
+0 -10.8 Td
+(1.2 Introduction to the Second Edition)Tj
+4.08 Tc (\227)Tj
+0 Tc (PDF 1.1 19)Tj
+0 -10.8 Td
+(1.3 Introduction to the Third Edition)Tj
+4.08 Tc (\227)Tj
+0 Tc (PDF 1.2 20)Tj
+0 -10.8 Td
+(1.4 Conventions used in this book 20)Tj
+0 -10.8 Td
+(1.5 A note on syntax 21)Tj
+0 -10.8 Td
+(1.6 Copyrights and permissions to use PDF 22)Tj
+/TT1 9.12 Tf
+0.00369 Tc 0 -10.8 Td
+(Section I: Portable Document Format )Tj
+/TT0 9.60001 Tf
+0 Tc (25)Tj
+/TT1 9.12 Tf
+0.00439 Tc 0 -10.8 Td
+(Chapter 2: Overview )Tj
+/TT0 9.60001 Tf
+0 Tc (27)Tj
+0 -10.8 Td
+(2.1 What is the Portable Document Format? 27)Tj
+0 -10.8 Td
+(2.2 Using PDF 27)Tj
+0 -10.8 Td
+(2.3 General properties 29)Tj
+0 -10.8 Td
+(2.4 PDF and the PostScript language 33)Tj
+0 -10.8 Td
+(2.5 Understanding PDF 34)Tj
+/TT1 9.12 Tf
+0.004 Tc 0 -10.8 Td
+(Chapter 3: Coordinate Systems )Tj
+/TT0 9.60001 Tf
+0 Tc (35)Tj
+0 -10.8 Td
+(3.1 Device space 35)Tj
+0 -10.8 Td
+(3.2 User space 36)Tj
+0 -10.8 Td
+(3.3 Text space 37)Tj
+0 -10.8 Td
+(3.4 Character space 37)Tj
+0 -10.8 Td
+(3.5 Image space 37)Tj
+0 -43.2 Td
+(17)Tj
+/TT2 9.60001 Tf
+0 -10.8 Td
+(This book describes the Portable Document Format \(PDF\), the native fil\e format of)Tj
+0 -11.04 Td
+(the Adobe )Tj
+/TT2 7.44 Tf
+-0.06 Tc 0.12 Tw (\256 )Tj
+/TT2 9.60001 Tf
+0 Tc 0 Tw (Acrobat )Tj
+/TT2 7.44 Tf
+-0.06 Tc 0.12 Tw (\256 )Tj
+/TT2 9.60001 Tf
+0 Tc 0 Tw (family of products. The goal of these products is to enable)Tj
+0 -11.04 Td
+(users to easily and reliably exchange and view electronic documents inde\pendent)Tj
+0 -11.04 Td
+(of the environment in which they were created. PDF relies on the imaging\ model)Tj
+0 -11.04 Td
+(of the PostScript )Tj
+/TT2 7.44 Tf
+-0.06 Tc 0.12 Tw (\256 )Tj
+/TT2 9.60001 Tf
+0 Tc 0 Tw (language to describe text and graphics in a device- and)Tj
+0 -11.04 Td
+(resolution-independent manner. To improve performance for interactive vi\ewing,)Tj
+0 -11.04 Td
+(PDF defines a more structured format than that used by most PostScript l\anguage)Tj
+0 -11.04 Td
+(programs. PDF also includes objects, such as annotations and hypertext l\inks, that)Tj
+0 -11.04 Td
+(are not part of the page itself but are useful for interactive viewing.)Tj
+0 -11.04 Td
+(PDF files are built from a sequence of numbered objects similar to those\ used in)Tj
+0 -11.04 Td
+(the PostScript language. The text, graphics, and images that make up the\ contents)Tj
+0 -11.04 Td
+(of a page are represented using operators that are based on those in the\ PostScript)Tj
+0 -11.04 Td
+(language and that closely follow the Adobe Illustrator )Tj
+/TT2 7.44 Tf
+-0.06 Tc 0.12 Tw (\256 )Tj
+/TT2 9.60001 Tf
+0 Tc 0 Tw (3.0 page description)Tj
+0 -11.04 Td
+(operators.)Tj
+0 -11.04 Td
+(A PDF file is not a PostScript language program and cannot be directly i\nterpreted)Tj
+ET
+
+endstreamendobj8 0 obj<</BBox[0.0 0.0 612.0 792.0]/Length 7467/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ColorSpace<</CS0 12 0 R>>/ExtGState<</GS0 13 0 R>>/Font<</T1_0 14 0 R/T1_1 15 0 R/T1_2 16 0 R>>/ProcSet[/PDF/Text]>>/Subtype/Form>>stream
+/CS0 CS 0 0 0 SC
+1 i 0.5 w 10 M 0 j 2 J []0 d 
+/GS0 gs
+185.5 294.33301 m
+185.5 281.66599 l
+302.89499 642.66901 m
+302.89499 626.836 l
+302.95801 583.33502 m
+302.95801 272.67899 l
+S
+/CS0 cs 0.90199 0.89799 0.90199 sc
+130.75101 283.24899 114.376 -228.62601 re
+f
+130.75101 283.24899 114.376 -228.62601 re
+S
+1 1 1 sc
+140.063 259.84201 97.876 -33.929 re
+f
+140.063 259.84201 97.876 -33.929 re
+S
+0.90199 0.89799 0.90199 sc
+513.61102 516.25201 79.108 -106.608 re
+f
+513.61102 516.25201 79.108 -106.608 re
+S
+411.07401 516.25201 93.34 -120.894 re
+f
+411.07401 516.25201 93.34 -120.894 re
+S
+110.001 516.25201 92.679 -145.17999 re
+f
+110.001 516.25201 92.679 -145.17999 re
+S
+1 1 1 sc
+119.071 645.586 90 -27 re
+f
+119.071 645.586 90 -27 re
+S
+q
+15 8 582 776 re
+W n
+BT
+0 g
+/T1_0 1 Tf
+0 Tc 0 Tw 0 Ts 100 Tz 0 Tr 9 0 0 9 15 784 Tm
+( )Tj
+ET
+Q
+BT
+0 0 0 sc
+/T1_0 1 Tf
+0 Tc 0 Tw 0 Ts 100 Tz 0 Tr 9 0 0 9 148.567 635.675 Tm
+(Acrobat )Tj
+T*
+-1.6396 -1.2222 Td
+[(De)30 (v)25.1 (eloper F)80.1 (A)30 (Q)]TJ
+ET
+q
+15 8 582 776 re
+W n
+BT
+0 g
+/T1_1 1 Tf
+9 0 0 9 18 784 Tm
+( )Tj
+ET
+Q
+BT
+/T1_1 1 Tf
+9 0 0 9 139.111 500.424 Tm
+[(Acr)20 (obat )]TJ
+T*
+0.0451 -1.2222 Td
+(Distiller)Tj
+T*
+33.48 1.5632 Td
+[(Acr)20 (obat  )]TJ
+T*
+-1.9821 -1.2222 Td
+( Interapplication)Tj
+T*
+0.0937 -1.2222 Td
+[(Comm)20 (unication )]TJ
+T*
+2.5934 -1.2222 Td
+[(\(IA)40 (C\))]TJ
+ET
+1 1 1 sc
+240.395 626.51398 120 -43.5 re
+f
+240.395 626.51398 120 -43.5 re
+S
+q
+15 8 582 776 re
+W n
+BT
+0 g
+/T1_0 1 Tf
+9 0 0 9 20 784 Tm
+( )Tj
+ET
+Q
+BT
+0 0 0 sc
+/T1_0 1 Tf
+-0.0379 Tw 9 0 0 9 249.703 615.014 Tm
+[(Getting Star)-39.8 (ted Using the )]TJ
+0 Tw T*
+0.2217 -1.2222 Td
+[(Adobe Acrobat Softw)15.1 (are )]TJ
+T*
+1.7711 -1.2222 Td
+[(De)30 (v)25.1 (elopment Kit )]TJ
+ET
+q
+15 8 582 776 re
+W n
+BT
+0 g
+/T1_1 1 Tf
+9 0 0 9 23 784 Tm
+( )Tj
+ET
+Q
+BT
+/T1_1 1 Tf
+9 0 0 9 537.633 502.35 Tm
+[(Acr)20 (obat)]TJ
+-0.1001 Tw T*
+-0.8306 -1.2222 Td
+[(FDF T)80.1 (oolkit)]TJ
+0 Tw T*
+-40.1075 -24.7383 Td
+(Plug-ins)Tj
+ET
+1 1 1 sc
+263.04401 281.858 79.607 -34.393 re
+f
+263.04401 281.858 79.607 -34.393 re
+S
+q
+15 8 582 776 re
+W n
+BT
+0 g
+/T1_0 1 Tf
+9 0 0 9 25 784 Tm
+( )Tj
+ET
+Q
+BT
+0 0 0 sc
+/T1_0 1 Tf
+9 0 0 9 276.344 267.846 Tm
+(Acrobat Core )Tj
+T*
+-0.291 -1.2222 Td
+[(API Ref)30 (erence)]TJ
+ET
+1 1 1 sc
+140 215.28799 98 -29.679 re
+f
+140 215.28799 98 -29.679 re
+S
+140.03 174.985 98.011 -33.321 re
+f
+140.03 174.985 98.011 -33.321 re
+S
+140.01601 131.039 98.009 -27 re
+f
+140.01601 131.039 98.009 -27 re
+S
+116.036 473.71899 81.015 -27 re
+f
+116.036 473.71899 81.015 -27 re
+S
+BT
+0 0 0 sc
+9 0 0 9 125.057 463.281 Tm
+(Acrobat Distiller)Tj
+T*
+0.9412 -1.2222 Td
+[(P)40 (ar)10 (ameters)]TJ
+ET
+1 1 1 sc
+116.023 438.254 81.015 -27 re
+f
+116.023 438.254 81.015 -27 re
+S
+BT
+0 0 0 sc
+9 0 0 9 125.057 427.817 Tm
+(Acrobat Distiller)Tj
+T*
+0.2638 -1.2222 Td
+[(API Ref)30 (erence)]TJ
+ET
+1 1 1 sc
+115.544 402.254 81.48 -27 re
+f
+115.544 402.254 81.48 -27 re
+S
+BT
+0 0 0 sc
+9 0 0 9 139.165 391.817 Tm
+[(pdfmar)-14.9 (k)]TJ
+T*
+-0.478 -1.2222 Td
+[(Ref)30 (erence )]TJ
+ET
+1 1 1 sc
+518.23602 478.27899 70.393 -27 re
+f
+518.23602 478.27899 70.393 -27 re
+S
+BT
+0 0 0 sc
+-0.05 Tw 9 0 0 9 530.952 467.279 Tm
+[(FDF T)120.1 (oolkit)]TJ
+0 Tw T*
+0.4224 -1.2222 Td
+[(Ov)25.1 (er)-29.8 (vie)20 (w)]TJ
+ET
+64.25 531 m
+553.18201 531 l
+186.16701 294.33301 m
+398.66699 294.33301 l
+64.25 531 m
+64.25 516.53601 l
+457.74399 530.64301 m
+457.74399 516.336 l
+553.18298 531 m
+553.18298 516.53601 l
+359.25299 530.83502 m
+359.25299 516.71399 l
+250.502 530.83502 m
+250.502 516.71399 l
+S
+1 1 1 sc
+158.689 257.181 59.5 -28.607 re
+f
+BT
+0 0 0 sc
+-0.11121 Tw 9 0 0 9 159.186 251.1811 Tm
+(Acrobat Digital )Tj
+-0.02831 Tw T*
+0.1659 -1.2222 Td
+(Signature API )Tj
+0 Tw T*
+0.7933 -1.2222 Td
+[(Ref)30 (erence)]TJ
+ET
+1 1 1 sc
+152.492 213.255 65.893 -17.749 re
+f
+BT
+0 0 0 sc
+9 0 0 9 160.024 203.842 Tm
+[(Acrobat F)30 (or)-24.9 (ms )]TJ
+T*
+0.0392 -1.2222 Td
+[(API Ref)30 (erence)]TJ
+ET
+1 1 1 sc
+156.508 168.188 67.361 -19.726 re
+f
+BT
+0 0 0 sc
+9 0 0 9 159.181 162.188 Tm
+(Acrobat Search )Tj
+T*
+0.2094 -1.2222 Td
+[(API Ref)30 (erence)]TJ
+ET
+1 1 1 sc
+148.789 126.852 84.299 -18.625 re
+f
+BT
+0 0 0 sc
+-0.03999 Tw 9 0 0 9 150.087 120.852 Tm
+[(Acrobat W)30 (eb)20 (link )-40 (API)]TJ
+0 Tw T*
+2.248 -1.2222 Td
+[(Ref)30 (erence)]TJ
+ET
+1 1 1 sc
+119.071 589.586 90 -27 re
+f
+119.071 589.586 90 -27 re
+S
+BT
+0 0 0 sc
+-0.12469 Tw 9 0 0 9 133.203 580.157 Tm
+[(PDF Ref)30 (erence )]TJ
+0 Tw T*
+1.7957 -1.2222 Td
+[(Man)10 (ual)]TJ
+ET
+1 1 1 sc
+390.07101 645.586 90 -27 re
+f
+390.07101 645.586 90 -27 re
+S
+BT
+0 0 0 sc
+9 0 0 9 419.567 635.943 Tm
+(Acrobat )Tj
+T*
+-0.2643 -1.2222 Td
+[(Glossar)-29.8 (y)]TJ
+ET
+1 1 1 sc
+390.07101 589.586 102 -32 re
+f
+390.07101 589.586 102 -32 re
+S
+BT
+0 0 0 sc
+9 0 0 9 400.807 577.275 Tm
+(Adobe Acrobat SDK )Tj
+T*
+-0.1732 -1.2222 Td
+[(Contents Descr)-14.9 (iption)]TJ
+ET
+1 1 1 sc
+255.395 669.586 90 -27 re
+f
+255.395 669.586 90 -27 re
+S
+BT
+0 0 0 sc
+9 0 0 9 273.46 659.1481 Tm
+(Acrobat SDK )Tj
+T*
+-0.3889 -1.2222 Td
+(Release Notes)Tj
+ET
+1 1 1 sc
+206.071 516.25201 90 -27 re
+f
+206.071 516.25201 90 -27 re
+S
+24.758 516.25201 80.313 -27 re
+f
+24.758 516.25201 80.313 -27 re
+S
+BT
+0 0 0 sc
+9 0 0 9 32.158 505.815 Tm
+(Acrobat Capture)Tj
+T*
+0.4038 -1.2222 Td
+[(API Ref)30 (erence)]TJ
+T*
+20.3357 1.2222 Td
+(Acrobat Catalog)Tj
+T*
+0.3484 -1.2222 Td
+[(API Ref)30 (erence)]TJ
+ET
+1 1 1 sc
+314.07101 516.25201 90 -42 re
+f
+314.07101 516.25201 90 -42 re
+S
+BT
+0 0 0 sc
+-0.07561 Tw 9 0 0 9 333.318 503.694 Tm
+(Acrobat PDF )Tj
+0 Tw T*
+0.5767 -1.2222 Td
+[(Wr)-14.9 (iter API )]TJ
+T*
+-0.0062 -1.2222 Td
+[(Ref)30 (erence)]TJ
+ET
+156.34 530.83502 m
+156.34 516.71399 l
+S
+1 1 1 sc
+140.188 93.414 97.822 -27 re
+f
+140.188 93.414 97.822 -27 re
+S
+149.039 86.227 84.299 -12.625 re
+f
+BT
+0 0 0 sc
+9 0 0 9 162.436 80.227 Tm
+(Other Plug-ins)Tj
+0 g
+/T1_2 1 Tf
+24 0 0 24 28 784 Tm
+( )Tj
+/CS0 cs 0 0 0 sc
+T*
+5.4965 -3.3333 Td
+(Documentation Roadmap)Tj
+ET
+185.66701 294.33301 m
+185.66701 294.33301 l
+398.66699 294.33301 m
+398.66699 281.66599 l
+S
+1 1 1 sc
+359.04401 282.19199 79.607 -34.393 re
+f
+359.04401 282.19199 79.607 -34.393 re
+S
+q
+15 8 582 776 re
+W n
+BT
+0 g
+/T1_0 1 Tf
+9 0 0 9 34 784 Tm
+( )Tj
+ET
+Q
+BT
+0 0 0 sc
+/T1_0 1 Tf
+9 0 0 9 373.094 268.152 Tm
+(Acrobat PDF )Tj
+T*
+-0.8903 -1.2222 Td
+[(Libr)10 (ar)-29.8 (y Ov)25.1 (er)-29.8 (vie)20 (w)]TJ
+ET
+1 1 1 sc
+256.67099 378.17001 90 -27 re
+f
+256.67099 378.17001 90 -27 re
+S
+BT
+0 0 0 sc
+9 0 0 9 277.664 368.473 Tm
+(Acrobat API)Tj
+T*
+-0.2499 -1.2222 Td
+[(De)30 (v)25.1 (elopment)]TJ
+ET
+1 1 1 sc
+256.67099 337.086 90 -27 re
+f
+256.67099 337.086 90 -27 re
+S
+BT
+0 0 0 sc
+9 0 0 9 284.169 327.497 Tm
+(Samples )Tj
+T*
+-0.2224 -1.2222 Td
+(Roadmap)Tj
+ET
+1 1 1 sc
+256.67099 460.33701 90 -27 re
+f
+256.67099 460.33701 90 -27 re
+S
+BT
+0 0 0 sc
+-0.0731 Tw 9 0 0 9 275.168 450.842 Tm
+(Acrobat Core )Tj
+0 Tw T*
+-0.0754 -1.2222 Td
+[(API Ov)25.1 (er)-29.8 (vie)20 (w)]TJ
+ET
+1 1 1 sc
+256.67099 423.25299 90 -35.505 re
+f
+256.67099 423.25299 90 -35.505 re
+S
+BT
+0 0 0 sc
+9 0 0 9 270.665 408.758 Tm
+(Acrobat Plug-In )Tj
+T*
+-0.6139 -1.2222 Td
+[(De)30 (v)25.1 (eloper\325)50 (s Guide)]TJ
+ET
+1 1 1 sc
+518.36102 447.27899 70.393 -27 re
+f
+518.36102 447.27899 70.393 -27 re
+S
+BT
+0 0 0 sc
+-0.05 Tw 9 0 0 9 531.077 436.279 Tm
+[(FDF T)120.1 (oolkit)]TJ
+0 Tw T*
+0.2068 -1.2222 Td
+[(Ref)30 (erence)]TJ
+ET
+1 1 1 sc
+418.21201 428.358 77.98 -26.241 re
+f
+418.21201 428.358 77.98 -26.241 re
+S
+418.298 462.466 77.768 -27.312 re
+f
+418.298 462.466 77.768 -27.312 re
+S
+BT
+0 0 0 sc
+9 0 0 9 433.063 452.162 Tm
+[(Acrobat IA)30 (C )]TJ
+T*
+0.6044 -1.2222 Td
+[(Ov)25.1 (er)-29.8 (vie)20 (w)]TJ
+T*
+-0.542 -2.4782 Td
+[(Acrobat IA)30 (C )]TJ
+T*
+0.3889 -1.2222 Td
+[(Ref)30 (erence)]TJ
+ET
+
+endstreamendobj14 0 obj<</BaseFont/Helvetica/Encoding/MacRomanEncoding/Subtype/Type1/Type/Font>>endobj15 0 obj<</BaseFont/Helvetica-Bold/Encoding/WinAnsiEncoding/Subtype/Type1/Type/Font>>endobj16 0 obj<</BaseFont/Frutiger-Roman/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 17 0 R/LastChar 181/Subtype/Type1/Type/Font/Widths[278 389 556 556 556 1000 722 278 333 333 556 600 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 600 600 600 500 800 722 611 611 722 556 500 722 722 278 389 667 500 944 722 778 556 778 611 500 556 722 667 1000 667 667 556 333 278 333 600 500 278 556 611 444 611 556 389 611 611 278 278 556 278 889 611 611 611 611 389 389 389 611 500 833 500 500 500 333 222 333 600 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 556 556 278 278 278 278 278 800 278 278 278 278 278 278 278 600 278 278 278 611]>>endobj17 0 obj<</Ascent 750/CapHeight 698/Descent -210/Flags 32/FontBBox[-169 -250 1000 935]/FontName/Frutiger-Roman/ItalicAngle 0/StemV 94/Type/FontDescriptor/XHeight 510>>endobj13 0 obj<</SA true/SM 0.02/TR/Identity/Type/ExtGState>>endobj12 0 obj[/CalRGB<</Gamma[2.22221 2.22221 2.22221]/Matrix[0.4124 0.2126 0.0193 0.3576 0.71519 0.1192 0.1805 0.0722 0.9505]/WhitePoint[0.9505 1 1.089]>>]endobj9 0 obj<</BaseFont/Arial/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 18 0 R/LastChar 255/Subtype/TrueType/Type/Font/Widths[275 350 350 550 550 900 675 200 325 325 400 575 275 325 275 275 550 550 550 550 550 550 550 550 550 550 275 275 575 575 575 550 1025 675 675 725 725 675 600 775 725 250 500 675 550 825 725 775 675 775 725 675 600 725 675 1000 675 650 600 275 275 275 475 550 325 550 550 500 550 550 300 550 525 200 250 500 200 850 525 550 550 550 325 475 275 525 475 725 450 475 500 325 275 325 575 750 750 750 575 575 575 575 575 575 575 575 575 575 575 750 750 750 750 575 575 575 575 575 575 575 575 575 575 575 575 750 750 575 275 350 550 550 550 550 275 550 325 725 375 550 575 325 725 550 400 550 325 325 325 575 525 275 325 325 375 550 825 825 825 600 675 675 675 675 675 675 1000 725 675 675 675 675 275 275 275 275 725 725 775 775 775 775 775 575 775 725 725 725 725 675 675 600 550 550 550 550 550 550 900 500 550 550 550 550 275 275 275 275 550 550 550 550 550 550 550 550 575 550 550 550 550 500 550 500]>>endobj10 0 obj<</BaseFont/Arial,Bold/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 19 0 R/LastChar 255/Subtype/TrueType/Type/Font/Widths[289 289 473 552 552 868 710 236 342 342 394 578 289 342 289 289 552 552 552 552 552 552 552 552 552 552 342 342 578 578 578 605 973 710 710 710 710 657 605 789 710 289 552 710 605 868 710 789 657 789 710 657 605 710 657 921 657 657 605 342 289 342 578 552 342 552 605 552 605 552 342 605 605 289 289 552 289 921 605 605 605 605 394 552 342 605 552 763 552 526 473 394 289 394 578 763 763 763 578 578 578 578 578 578 578 578 578 578 578 763 763 763 763 578 578 578 578 578 578 578 578 578 578 578 578 763 763 578 289 289 552 552 552 552 289 552 342 736 368 552 578 342 736 552 394 552 342 342 342 578 552 289 315 342 368 552 842 842 842 605 710 710 710 710 710 710 1000 710 657 657 657 657 289 289 289 289 710 710 789 789 789 789 789 578 789 710 710 710 710 657 657 605 552 552 552 552 552 552 894 552 552 552 552 552 289 289 289 289 605 605 605 605 605 605 605 552 605 605 605 605 605 552 605 552]>>endobj11 0 obj<</BaseFont/TimesNewRoman/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 20 0 R/LastChar 255/Subtype/TrueType/Type/Font/Widths[250 275 375 500 500 825 775 175 325 325 475 575 250 325 250 275 500 500 500 500 500 500 500 500 500 500 275 275 575 575 575 425 925 725 650 675 725 600 550 700 700 325 400 700 575 900 725 725 550 725 675 550 575 725 725 950 725 725 600 325 275 325 475 500 325 450 500 425 500 425 300 500 500 275 275 500 275 775 500 475 500 500 325 400 275 500 475 725 475 450 425 475 200 475 550 775 775 775 575 575 575 575 575 575 575 575 575 575 575 775 775 775 775 575 575 575 575 575 575 575 575 575 575 575 575 775 775 575 250 275 500 500 500 500 200 500 275 750 275 475 575 325 750 500 400 550 300 300 275 575 450 250 300 300 300 475 750 750 750 425 725 725 725 725 725 725 850 675 600 600 600 600 325 325 325 325 725 725 725 725 725 725 725 575 725 725 725 725 725 725 550 525 450 450 450 450 450 450 675 450 450 450 450 450 275 275 275 275 500 500 500 500 500 500 500 550 500 500 500 500 500 500 500 500]>>endobj20 0 obj<</Ascent 891/AvgWidth 401/CapHeight 891/Descent -216/Flags 34/FontBBox[-250 -216 1140 1040]/FontName/TimesNewRoman/ItalicAngle 0/Leading 149/MaxWidth 950/MissingWidth 325/StemH 73/StemV 73/Type/FontDescriptor/XHeight 446>>endobj19 0 obj<</Ascent 905/AvgWidth 479/CapHeight 905/Descent -212/Flags 16416/FontBBox[-250 -212 1200 1055]/FontName/Arial,Bold/ItalicAngle 0/Leading 150/MaxWidth 1000/MissingWidth 342/StemH 153/StemV 153/Type/FontDescriptor/XHeight 453>>endobj18 0 obj<</Ascent 905/AvgWidth 441/CapHeight 905/Descent -212/Flags 32/FontBBox[-250 -212 1230 1055]/FontName/Arial/ItalicAngle 0/Leading 150/MaxWidth 1025/MissingWidth 275/StemH 80/StemV 80/Type/FontDescriptor/XHeight 453>>endobj4 0 obj<</CreationDate(D:20190411130805-05'00')/ModDate(D:20190411130805-05'00')/Producer(Adobe PDF Library 15.0.4)>>endobjxref
+0 21
+0000000000 65535 f
+0000000016 00000 n
+0000000076 00000 n
+0000003257 00000 n
+0000019752 00000 n
+0000003308 00000 n
+0000003442 00000 n
+0000003587 00000 n
+0000006846 00000 n
+0000015900 00000 n
+0000016942 00000 n
+0000017988 00000 n
+0000015740 00000 n
+0000015676 00000 n
+0000014564 00000 n
+0000014654 00000 n
+0000014748 00000 n
+0000015500 00000 n
+0000019519 00000 n
+0000019276 00000 n
+0000019036 00000 n
+trailer
+<</Size 21/Root 1 0 R/Info 4 0 R/ID[<673B8C025109DE43948DE01B1C46E644><D1FE1D8839DCE344A0A8D520F7F842B4>]>>
+startxref
+19878
+%%EOF
