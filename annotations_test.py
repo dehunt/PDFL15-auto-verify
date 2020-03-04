@@ -25,6 +25,12 @@ class TestFlattenAnnotations(object):
     def test_flattenAnnotationsPDF(self):
         testFile = os.path.join(self.extAttchSampFile, 'FlattenAnnotations-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'FlattenAnnotations-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
-        var = util.imgCompare(testFile, baseFile, diffOut)
-        assert var == b'0', "FAILED - Imaged PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
+
+# Legacy
+    # def test_flattenAnnotationsPDF(self):
+    #     testFile = os.path.join(self.extAttchSampFile, 'FlattenAnnotations-out.pdf')
+    #     baseFile = os.path.join(self.extAttchBase, 'FlattenAnnotations-out.pdf')
+    #     diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
+    #     var = util.imgCompare(testFile, baseFile, diffOut)
+    #     assert var == b'0', "FAILED - Imaged PDFs do not match."

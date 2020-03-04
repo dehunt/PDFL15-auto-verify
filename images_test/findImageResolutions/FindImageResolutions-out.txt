@@ -1,0 +1,764 @@
+Processing file FindImageResolutions.pdf
+We found a total of 10 images, referended 256 times
+
+   Image 1 is an XObject image 2083 pixels wide, and 2275 pixels deep. It is referenced 151 times.
+
+      Reference 1 is on page 1 and has a resolution of 1042horizontal, and 1042 vertical.
+
+      Reference 2 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 3 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 4 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 5 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 6 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 7 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 8 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 9 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 10 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 11 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 12 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 13 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 14 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 180 degrees
+
+      Reference 15 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 195 degrees
+
+      Reference 16 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 210 degrees
+
+      Reference 17 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 225 degrees
+
+      Reference 18 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 240 degrees
+
+      Reference 19 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 255 degrees
+
+      Reference 20 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 270 degrees
+
+      Reference 21 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 285 degrees
+
+      Reference 22 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 300 degrees
+
+      Reference 23 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 315 degrees
+
+      Reference 24 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 330 degrees
+
+      Reference 25 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 345 degrees
+
+      Reference 26 is on page 2 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 27 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 28 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 29 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 30 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 31 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 32 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 33 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 34 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 35 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 36 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 37 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 38 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 39 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 180 degrees
+
+      Reference 40 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 195 degrees
+
+      Reference 41 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 210 degrees
+
+      Reference 42 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 225 degrees
+
+      Reference 43 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 240 degrees
+
+      Reference 44 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 255 degrees
+
+      Reference 45 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 270 degrees
+
+      Reference 46 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 285 degrees
+
+      Reference 47 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 300 degrees
+
+      Reference 48 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 315 degrees
+
+      Reference 49 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 330 degrees
+
+      Reference 50 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 345 degrees
+
+      Reference 51 is on page 5 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 52 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 53 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 54 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 55 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 56 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 57 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 58 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 59 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 60 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 61 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 62 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 63 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 64 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 180 degrees
+
+      Reference 65 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 195 degrees
+
+      Reference 66 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 210 degrees
+
+      Reference 67 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 225 degrees
+
+      Reference 68 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 240 degrees
+
+      Reference 69 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 255 degrees
+
+      Reference 70 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 270 degrees
+
+      Reference 71 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 285 degrees
+
+      Reference 72 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 300 degrees
+
+      Reference 73 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 315 degrees
+
+      Reference 74 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 330 degrees
+
+      Reference 75 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 345 degrees
+
+      Reference 76 is on page 6 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 77 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 78 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 79 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 80 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 81 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 82 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 83 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 84 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 85 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 86 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 87 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 88 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 89 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 90 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 91 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 92 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 93 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 94 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 95 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 96 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 97 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 98 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 99 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 100 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 101 is on page 7 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 102 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 103 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 104 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 105 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 106 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 107 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 108 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 109 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 110 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 111 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 112 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 113 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 114 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 115 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 116 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 117 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 118 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 119 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 120 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 121 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 122 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 123 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 124 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 125 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 126 is on page 8 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 127 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 180 degrees
+
+      Reference 128 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 195 degrees
+
+      Reference 129 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 210 degrees
+
+      Reference 130 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 225 degrees
+
+      Reference 131 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 240 degrees
+
+      Reference 132 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 255 degrees
+
+      Reference 133 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 270 degrees
+
+      Reference 134 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 285 degrees
+
+      Reference 135 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 300 degrees
+
+      Reference 136 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 315 degrees
+
+      Reference 137 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 330 degrees
+
+      Reference 138 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 345 degrees
+
+      Reference 139 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 140 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 141 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 142 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 143 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 144 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 145 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 146 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 147 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 148 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 149 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 150 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 151 is on page 9 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 180 degrees
+
+   Image 2 is an XObject image 3041 pixels wide, and 3321 pixels deep. It is referenced 1 times.
+
+      Reference 1 is on page 1 and has a resolution of 1521horizontal, and 1520 vertical.
+
+   Image 3 is an XObject image 4166 pixels wide, and 4550 pixels deep. It is referenced 1 times.
+
+      Reference 1 is on page 1 and has a resolution of 2083horizontal, and 2083 vertical.
+
+   Image 4 is an XObject image 8333 pixels wide, and 9100 pixels deep. It is referenced 1 times.
+
+      Reference 1 is on page 1 and has a resolution of 4167horizontal, and 4166 vertical.
+
+   Image 5 is an XObject image 13888 pixels wide, and 15166 pixels deep. It is referenced 1 times.
+
+      Reference 1 is on page 1 and has a resolution of 6944horizontal, and 6943 vertical.
+
+   Image 6 is an XObject image 16666 pixels wide, and 18199 pixels deep. It is referenced 1 times.
+
+      Reference 1 is on page 1 and has a resolution of 8333horizontal, and 8332 vertical.
+
+   Image 7 (Mask) is an XObject image 500 pixels wide, and 546 pixels deep. It is referenced 25 times.
+
+      Reference 1 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+
+      Reference 2 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 15 degrees
+
+      Reference 3 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 30 degrees
+
+      Reference 4 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 45 degrees
+
+      Reference 5 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 60 degrees
+
+      Reference 6 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 75 degrees
+
+      Reference 7 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 90 degrees
+
+      Reference 8 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 105 degrees
+
+      Reference 9 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 120 degrees
+
+      Reference 10 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 135 degrees
+
+      Reference 11 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 150 degrees
+
+      Reference 12 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 165 degrees
+
+      Reference 13 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 180 degrees
+
+      Reference 14 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 195 degrees
+
+      Reference 15 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 210 degrees
+
+      Reference 16 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 225 degrees
+
+      Reference 17 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 240 degrees
+
+      Reference 18 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 255 degrees
+
+      Reference 19 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 270 degrees
+
+      Reference 20 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 285 degrees
+
+      Reference 21 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 300 degrees
+
+      Reference 22 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 315 degrees
+
+      Reference 23 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 330 degrees
+
+      Reference 24 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 345 degrees
+
+      Reference 25 is on page 3 and has a resolution of 500horizontal, and 500 vertical.
+
+   Image 8 is an XObject image 2083 pixels wide, and 2275 pixels deep. It is referenced 25 times.
+
+      Reference 1 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 2 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 3 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 4 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 5 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 6 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 7 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 8 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 9 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 10 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 11 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 12 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 13 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 180 degrees
+
+      Reference 14 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 195 degrees
+
+      Reference 15 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 210 degrees
+
+      Reference 16 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 225 degrees
+
+      Reference 17 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 240 degrees
+
+      Reference 18 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 255 degrees
+
+      Reference 19 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 270 degrees
+
+      Reference 20 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 285 degrees
+
+      Reference 21 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 300 degrees
+
+      Reference 22 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 315 degrees
+
+      Reference 23 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 330 degrees
+
+      Reference 24 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 345 degrees
+
+      Reference 25 is on page 3 and has a resolution of 2083horizontal, and 2083 vertical.
+
+   Image 9 (Soft Mask) is an XObject image 500 pixels wide, and 546 pixels deep. It is referenced 25 times.
+
+      Reference 1 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+
+      Reference 2 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 15 degrees
+
+      Reference 3 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 30 degrees
+
+      Reference 4 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 45 degrees
+
+      Reference 5 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 60 degrees
+
+      Reference 6 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 75 degrees
+
+      Reference 7 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 90 degrees
+
+      Reference 8 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 105 degrees
+
+      Reference 9 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 120 degrees
+
+      Reference 10 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 135 degrees
+
+      Reference 11 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 150 degrees
+
+      Reference 12 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 165 degrees
+
+      Reference 13 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 180 degrees
+
+      Reference 14 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 195 degrees
+
+      Reference 15 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 210 degrees
+
+      Reference 16 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 225 degrees
+
+      Reference 17 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 240 degrees
+
+      Reference 18 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 255 degrees
+
+      Reference 19 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 270 degrees
+
+      Reference 20 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 285 degrees
+
+      Reference 21 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 300 degrees
+
+      Reference 22 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 315 degrees
+
+      Reference 23 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 330 degrees
+
+      Reference 24 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+       Image is rotated 345 degrees
+
+      Reference 25 is on page 4 and has a resolution of 500horizontal, and 500 vertical.
+
+   Image 10 is an XObject image 2083 pixels wide, and 2275 pixels deep. It is referenced 25 times.
+
+      Reference 1 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+
+      Reference 2 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 15 degrees
+
+      Reference 3 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 30 degrees
+
+      Reference 4 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 45 degrees
+
+      Reference 5 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 60 degrees
+
+      Reference 6 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 75 degrees
+
+      Reference 7 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 90 degrees
+
+      Reference 8 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 105 degrees
+
+      Reference 9 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 120 degrees
+
+      Reference 10 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 135 degrees
+
+      Reference 11 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 150 degrees
+
+      Reference 12 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 165 degrees
+
+      Reference 13 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 180 degrees
+
+      Reference 14 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 195 degrees
+
+      Reference 15 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 210 degrees
+
+      Reference 16 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 225 degrees
+
+      Reference 17 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 240 degrees
+
+      Reference 18 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 255 degrees
+
+      Reference 19 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 270 degrees
+
+      Reference 20 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 285 degrees
+
+      Reference 21 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 300 degrees
+
+      Reference 22 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 315 degrees
+
+      Reference 23 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 330 degrees
+
+      Reference 24 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+       Image is rotated 345 degrees
+
+      Reference 25 is on page 4 and has a resolution of 2083horizontal, and 2083 vertical.
+

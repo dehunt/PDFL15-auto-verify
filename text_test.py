@@ -17,9 +17,7 @@ class TestAddText(object):
     def test_addText(self):
         testFile = os.path.join(self.extAttchSampFile, 'AddText-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'AddText-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
-        var = util.imgCompare(testFile, baseFile, diffOut)
-        assert var == b'0', "FAILED - Imaged PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
 
 class TestExtractText(object):
     extAttchSampFile = os.path.join(sampDir, 'ExtractText')
@@ -33,9 +31,7 @@ class TestExtractText(object):
     def test_extractTextPdf(self):
         testFile = os.path.join(self.extAttchSampFile, 'ExtractText-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'ExtractText-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
-        var = util.imgCompare(testFile, baseFile, diffOut)
-        assert var == b'0', "FAILED - Imaged PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
 
 # class TestHelloJapan(object):
 #     extAttchSampFile = os.path.join(sampDir, 'HelloJapan')
@@ -55,9 +51,10 @@ class TestInsertHeadFoot(object):
     def test_insertHeadFoot(self):
         testFile = os.path.join(self.extAttchSampFile, 'InsertHeadFoot-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'InsertHeadFoot-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
-        var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
-        assert var == 0, "FAILED - PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
+        # diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
+        # var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
+        # assert var == 0, "FAILED - PDFs do not match."
 
 # class TestTextSearch(object):
 #     extAttchSampFile = os.path.join(sampDir, 'TextSearch')
@@ -77,9 +74,7 @@ class TestTextSelectEnum(object):
     def test_textSelectEnum(self):
         testFile = os.path.join(self.extAttchSampFile, 'TextSelectEnum-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'TextSelectEnum-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
-        var = util.imgCompare(testFile, baseFile, diffOut)
-        assert var == b'0', "FAILED - Imaged PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
 
 # class TestUnicodeText(object):
 #     extAttchSampFile = os.path.join(sampDir, 'UnicodeText')

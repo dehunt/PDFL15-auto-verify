@@ -16,6 +16,4 @@ class TestAddRedaction(object):
     def test_addRedaction(self):
         testFile = os.path.join(self.extAttchSampFile, 'AddRedaction-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'AddRedaction-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
-        var = util.imgCompare(testFile, baseFile, diffOut)
-        assert var == b'0', "FAILED - Imaged PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"

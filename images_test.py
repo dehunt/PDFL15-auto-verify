@@ -41,9 +41,10 @@ class TestAddThumbnailsToPDF(object):
     def test_addThumbnailsPdf(self):
         testFile = os.path.join(self.extAttchSampFile, 'AddThumbnailsToPDF-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'AddThumbnailsToPDF-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
-        var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
-        assert var == 0, "FAILED - PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
+        # diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
+        # var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
+        # assert var == 0, "FAILED - PDFs do not match."
 
 class TestCreateImageWithTransparency(object):
     extAttchSampFile = os.path.join(sampDir, 'CreateImageWithTransparency')
@@ -52,9 +53,7 @@ class TestCreateImageWithTransparency(object):
     def test_createImageWithTransparencyPdf(self):
         testFile = os.path.join(self.extAttchSampFile, 'CreateImageWithTransparency-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'CreateImageWithTransparency-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
-        var = util.imgCompare(testFile, baseFile, diffOut)
-        assert var == b'0', "FAILED - Imaged PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
 
 class TestCreateSeparations(object):
     extAttchSampFile = os.path.join(sampDir, 'CreateSeparations')
@@ -63,9 +62,10 @@ class TestCreateSeparations(object):
     def test_createSeparationsPdf(self):
         testFile = os.path.join(self.extAttchSampFile, 'Out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'Out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
-        var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
-        assert var == 0, "FAILED - PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
+        # diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
+        # var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
+        # assert var == 0, "FAILED - PDFs do not match."
 
 class TestOutputPreview(object):
     extAttchSampFile = os.path.join(sampDir, 'OutputPreview')
@@ -74,9 +74,10 @@ class TestOutputPreview(object):
     def test_outputPreviewPdf(self):
         testFile = os.path.join(self.extAttchSampFile, 'Out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'Out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
-        var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
-        assert var == 0, "FAILED - PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
+        # diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
+        # var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
+        # assert var == 0, "FAILED - PDFs do not match."
 
 class TestRenderPage(object):
     extAttchSampFile = os.path.join(sampDir, 'RenderPage')
@@ -85,6 +86,4 @@ class TestRenderPage(object):
     def test_renderPagePdf(self):
         testFile = os.path.join(self.extAttchSampFile, 'RenderPage-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'RenderPage-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
-        var = util.imgCompare(testFile, baseFile, diffOut)
-        assert var == b'0', "FAILED - Imaged PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"

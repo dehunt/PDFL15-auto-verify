@@ -16,9 +16,7 @@ class TestCopyContent(object):
     def test_copyContentPdf(self):
         testFile = os.path.join(self.extAttchSampFile, 'CopyContent-out.pdf')
         baseFile = os.path.join(self.extAttchBase, 'CopyContent-out.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffComposite.png')
-        var = util.imgCompareMultiPage(testFile, baseFile, diffOut)
-        assert var == 0, "FAILED - PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
 
 class TestExtractAttachments(object):
     extAttchSampFile = os.path.join(sampDir, 'extractAttachments')
@@ -27,9 +25,7 @@ class TestExtractAttachments(object):
     def test_extractPdf(self):
         testFile = os.path.join(self.extAttchSampFile, '_x_extractPdf.pdf')
         baseFile = os.path.join(self.extAttchBase, '_x_extractPdf.pdf')
-        diffOut = os.path.join(self.extAttchSampFile, 'diffOut.png')
-        var = util.imgCompare(testFile, baseFile, diffOut)
-        assert var == b'0', "FAILED - Imaged PDFs do not match."
+        assert util.compare_pdfs(testFile, baseFile), testFile + " failed, PDFs fail visual match"
 
     def test_extractPng(self):
         testFile = util.hash(os.path.join(self.extAttchSampFile, '_x_extractPng.png'))
